@@ -1,0 +1,15 @@
+{
+    "name": "kt_4",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "tap run"
+    },
+    "autor": "hz",
+    "license": "ISC",
+    "description": "hz",
+    "devDependencies": {
+        "tap": "^21.1.0"
+    }
+}

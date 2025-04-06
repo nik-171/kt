@@ -1,0 +1,464 @@
+{
+  "result": [
+    {
+      "scriptId": "311",
+      "url": "file:///home/nik/vs/mysite/KT_js/src/func.js",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 0,
+              "endOffset": 4105,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "sumOfObj",
+          "ranges": [
+            {
+              "startOffset": 37,
+              "endOffset": 169,
+              "count": 10
+            },
+            {
+              "startOffset": 122,
+              "endOffset": 151,
+              "count": 27
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "objMod",
+          "ranges": [
+            {
+              "startOffset": 176,
+              "endOffset": 304,
+              "count": 2
+            },
+            {
+              "startOffset": 272,
+              "endOffset": 302,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 238,
+              "endOffset": 263,
+              "count": 4
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "logString",
+          "ranges": [
+            {
+              "startOffset": 315,
+              "endOffset": 447,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": false
+        },
+        {
+          "functionName": "сheckObj",
+          "ranges": [
+            {
+              "startOffset": 454,
+              "endOffset": 631,
+              "count": 3
+            },
+            {
+              "startOffset": 519,
+              "endOffset": 612,
+              "count": 4
+            },
+            {
+              "startOffset": 570,
+              "endOffset": 606,
+              "count": 1
+            },
+            {
+              "startOffset": 612,
+              "endOffset": 630,
+              "count": 2
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "generateArray",
+          "ranges": [
+            {
+              "startOffset": 638,
+              "endOffset": 753,
+              "count": 5
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 689,
+              "endOffset": 750,
+              "count": 20
+            },
+            {
+              "startOffset": 744,
+              "endOffset": 750,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "addUser",
+          "ranges": [
+            {
+              "startOffset": 760,
+              "endOffset": 1045,
+              "count": 7
+            },
+            {
+              "startOffset": 939,
+              "endOffset": 1043,
+              "count": 3
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "updateUser",
+          "ranges": [
+            {
+              "startOffset": 1048,
+              "endOffset": 1420,
+              "count": 1
+            },
+            {
+              "startOffset": 1192,
+              "endOffset": 1204,
+              "count": 0
+            },
+            {
+              "startOffset": 1211,
+              "endOffset": 1294,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 1144,
+              "endOffset": 1165,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 1336,
+              "endOffset": 1357,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "deleteUser",
+          "ranges": [
+            {
+              "startOffset": 1423,
+              "endOffset": 1680,
+              "count": 2
+            },
+            {
+              "startOffset": 1549,
+              "endOffset": 1561,
+              "count": 0
+            },
+            {
+              "startOffset": 1605,
+              "endOffset": 1678,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 1501,
+              "endOffset": 1522,
+              "count": 4
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "filterProducts",
+          "ranges": [
+            {
+              "startOffset": 1687,
+              "endOffset": 1784,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 1750,
+              "endOffset": 1780,
+              "count": 11
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "findPrice",
+          "ranges": [
+            {
+              "startOffset": 1787,
+              "endOffset": 1906,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 1848,
+              "endOffset": 1903,
+              "count": 5
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "sortByPrice",
+          "ranges": [
+            {
+              "startOffset": 1909,
+              "endOffset": 2028,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 1967,
+              "endOffset": 2024,
+              "count": 25
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "totalPrice",
+          "ranges": [
+            {
+              "startOffset": 2031,
+              "endOffset": 2159,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 2090,
+              "endOffset": 2153,
+              "count": 11
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "totalMarksSorted",
+          "ranges": [
+            {
+              "startOffset": 2162,
+              "endOffset": 2422,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 2225,
+              "endOffset": 2337,
+              "count": 11
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 2301,
+              "endOffset": 2326,
+              "count": 44
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 2350,
+              "endOffset": 2419,
+              "count": 25
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "Email",
+          "ranges": [
+            {
+              "startOffset": 2447,
+              "endOffset": 2501,
+              "count": 6
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "isValid",
+          "ranges": [
+            {
+              "startOffset": 2507,
+              "endOffset": 2649,
+              "count": 3
+            },
+            {
+              "startOffset": 2576,
+              "endOffset": 2630,
+              "count": 2
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "set setEmail",
+          "ranges": [
+            {
+              "startOffset": 2655,
+              "endOffset": 3200,
+              "count": 5
+            },
+            {
+              "startOffset": 2712,
+              "endOffset": 2758,
+              "count": 0
+            },
+            {
+              "startOffset": 2792,
+              "endOffset": 2861,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [
+            {
+              "startOffset": 2885,
+              "endOffset": 3127,
+              "count": 15
+            },
+            {
+              "startOffset": 2931,
+              "endOffset": 3014,
+              "count": 0
+            },
+            {
+              "startOffset": 3045,
+              "endOffset": 3117,
+              "count": 0
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "Contact",
+          "ranges": [
+            {
+              "startOffset": 3475,
+              "endOffset": 3522,
+              "count": 3
+            }
+          ],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "get numberValidation",
+          "ranges": [
+            {
+              "startOffset": 3528,
+              "endOffset": 3676,
+              "count": 5
+            },
+            {
+              "startOffset": 3615,
+              "endOffset": 3628,
+              "count": 2
+            },
+            {
+              "startOffset": 3629,
+              "endOffset": 3670,
+              "count": 3
+            },
+            {
+              "startOffset": 3641,
+              "endOffset": 3654,
+              "count": 2
+            },
+            {
+              "startOffset": 3655,
+              "endOffset": 3670,
+              "count": 1
+            }
+          ],
+          "isBlockCoverage": true
+        }
+      ]
+    }
+  ],
+  "timestamp": 12270.013959,
+  "source-map-cache": {}
+}

@@ -1,0 +1,116 @@
+[36m[Function: isValid][39m
+example@gmail.com 
+
+[36m[Function: isValid][39m
+ex$$$mple@gmail.com 
+
+
+Мобильный
+Городской
+TAP version 14
+# Subtest: basic cases
+    ok 1 - should be equal
+    ok 2 - should be equal
+    ok 3 - should be equal
+    ok 4 - should be equal
+    ok 5 - should be equal
+    ok 6 - should be equal
+    ok 7 - should be equal
+    ok 8 - should be equal
+    1..8
+ok 1 - basic cases # time=3.636ms
+
+# Subtest: empty Obj
+    ok 1 - should be equal
+    1..1
+ok 2 - empty Obj # time=0.588ms
+
+# Subtest: function is not modifying an Obj
+    ok 1 - should be equal
+    ok 2 - should be equal
+    ok 3 - should be equal
+    ok 4 - should be equal
+    1..4
+ok 3 - function is not modifying an Obj # time=0.795ms
+
+# Subtest: objMod: basic cases
+    ok 1 - should be equivalent
+    1..1
+ok 4 - objMod: basic cases # time=3.81ms
+
+# Subtest: objMod: empty objArr
+    ok 1 - should be equal
+    1..1
+ok 5 - objMod: empty objArr # time=0.294ms
+
+# Subtest: checkObj: basic cases
+    ok 1 - should be equal
+    ok 2 - should be equal
+    1..2
+ok 6 - checkObj: basic cases # time=0.323ms
+
+# Subtest: checkObj: empty Obj
+    ok 1 - should be equal
+    1..1
+ok 7 - checkObj: empty Obj # time=0.191ms
+
+# Subtest: generateArray: basic cases
+    ok 1 - should match pattern
+    ok 2 - should match pattern
+    ok 3 - should match pattern
+    ok 4 - should match pattern
+    1..4
+ok 8 - generateArray: basic cases # time=1.302ms
+
+# Subtest: generateArray: empty array
+    ok 1 - should match pattern
+    1..1
+ok 9 - generateArray: empty array # time=0.274ms
+
+# Subtest: addUser: basic cases
+    ok 1 - should be equal
+    ok 2 - should be equivalent
+    ok 3 - should be equal
+    ok 4 - should be equivalent
+    ok 5 - should be equivalent
+    1..5
+ok 10 - addUser: basic cases # time=1.424ms
+
+# Subtest: updateUser: basic cases
+    ok 1 - should be equivalent
+    1..1
+ok 11 - updateUser: basic cases # time=0.44ms
+
+# Subtest: deleteUser: basic cases
+    ok 1 - should be equivalent
+    ok 2 - should be equivalent
+    ok 3 - should be equivalent
+    1..3
+ok 12 - deleteUser: basic cases # time=1.002ms
+
+# Subtest: filterProducts: basic case
+    ok 1 - should be equivalent
+    ok 2 - should be equivalent
+    ok 3 - should be equivalent
+    ok 4 - should be equal
+    ok 5 - should be equivalent
+    1..5
+ok 13 - filterProducts: basic case # time=2.075ms
+
+# Subtest: Email: basic cases
+    ok 1 - should be equal
+    ok 2 - should be equivalent
+    ok 3 - should be equal
+    ok 4 - should be equivalent
+    ok 5 - should be equivalent
+    1..5
+ok 14 - Email: basic cases # time=0.559ms
+
+# Subtest: Contact: basic cases
+    ok 1 - should be equivalent
+    ok 2 - should be equivalent
+    ok 3 - should be equivalent
+    1..3
+ok 15 - Contact: basic cases # time=0.369ms
+
+1..15
